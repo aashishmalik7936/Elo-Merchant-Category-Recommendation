@@ -20,7 +20,7 @@ Now, I made a **5 fold stratified fold cross validation in which each fold conta
 
 For hyperparameter tuning, I used **optuna** to get best set of hyperparamters.
 
-I mostly made **aggregated features** with the **Historical and new transactions of the costumers and merchants**. Most impactful features were those which were derived either from **purchase amount** or from the **difference in the purchase dates**. For checking usefulness of features, I was **recording the CV score after the adding the new feature and then I was shuffling that feature and then again checking the CV score, if the shuffling CV score is better then the feature not useful otherwise it is useful**. With this technique I was able to generate **108 useful features**.
+I mostly made **aggregated features** with the **Historical and new transactions of the costumers and merchants**. Most impactful features were those which were derived either from **purchase amount** or from the **difference in the purchase dates**. For checking usefulness of features, I was **recording the CV score after the adding the new feature and then I was shuffling that feature and then again checking the CV score, if the shuffling CV score is better than the normal CV score then the feature not useful otherwise it is useful**. With this technique I was able to generate **108 useful features**.
 
 Now comes the post processing part, For I basically made three models:
 #First model was made on both outlier targets as well as non outlier targets.
