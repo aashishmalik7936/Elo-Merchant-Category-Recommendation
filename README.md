@@ -29,7 +29,7 @@ Now comes the post processing part, For I basically made three models:
 
 **I replaced the second model predicted values with first model values which were predicted as outliers by the third model**. This technique gave a lot of boost to my model.
 
-I also made a **xgboost model** with similar technique as mentioned above.
+I also made a **xgboost model** with similar technique as mentioned above. Xgboost model had a total of **73 features**.
 
 Finally, I took **the average of both the models as the final submission**.
 
