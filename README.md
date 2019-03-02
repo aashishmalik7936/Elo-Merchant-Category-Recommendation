@@ -1,8 +1,8 @@
 # ELO MERCHANT CATEGORY RECOMMENDATION COMPETITION #
-This was a machine learning competition hosted by **Kaggle**. In this participants had to make a regression model that will predict the loyality scores given by customers to transactions. Link to competition: https://www.kaggle.com/c/elo-merchant-category-recommendation
+This was a machine learning competition hosted by **Kaggle**. In this participants had to make a regression model that will predict the loyality scores given for each transactions. Link to competition: https://www.kaggle.com/c/elo-merchant-category-recommendation
 
 ## About Elo ##
-Elo is one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. Elo asked the kagglers to build a regression model which can predict the loyality scores given by custormers on a particular transaction, given the details about the transaction. 
+Elo is one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. Elo asked the kagglers to build a regression model which can predict the loyality scores given to custormers for that particular transaction, given the details about the transaction. 
 
 ## Performance ##
 This was one of the largest competition hosted on kaggle and I secured **140th position (top 4%) out of 4128 participants thereby winning a silver medal**. Link to my kaggle profile: https://www.kaggle.com/aashish7936
