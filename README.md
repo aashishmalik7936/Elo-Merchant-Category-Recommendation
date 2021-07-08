@@ -5,7 +5,7 @@ This was a machine learning competition hosted by **Kaggle**. In this participan
 Elo is one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. Elo asked the kagglers to build a regression model which can predict the loyality scores given to custormers for that particular transaction, given the details about the transaction. 
 
 ## Performance ##
-This was one of the largest competition hosted on kaggle and I secured **140th position (top 4%) out of 4128 participants thereby winning a silver medal**. Link to my kaggle profile: https://www.kaggle.com/aashish7936
+This was one of the largest competition hosted on kaggle and I secured **140th position (top 4%) out of 4110 participants thereby winning a silver medal**. Link to my kaggle profile: https://www.kaggle.com/aashish7936
 
 ## Libraries of python ##
 Numpy, Pandas, Seaborn, Matplotlib, scikit-learn, lightgbm, xgboost, datetime, gc.
